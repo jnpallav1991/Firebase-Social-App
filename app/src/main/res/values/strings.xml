@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="create_account">Create Account</string>
+    <string name="remember_me">Remember me</string>
+    <string name="signup">SignUp</string>
+    <string name="setting">Setting</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="title_wall">Wall</string>
+    <string name="title_groups">Groups</string>
+    <string name="title_resources">Resources</string>
+    <string name="title_members">Members</string>
+    <string name="title_my_profile">My profile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_save">Save</string>
+    <string name="permission_denied">Permission request denied</string>
+    <string name="designation">Designation</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">Name</string>
+</resources>
